@@ -52,7 +52,6 @@ def _retrieve_result_records(
 
     return results, keywords
 
-
 def _process_result(
     result_tuple: tuple[
         "qcportal.record_models.BaseRecord",
